@@ -32,7 +32,7 @@ Ahora dentro de nuestras clases empezaremos a darle logica y funcionamiento a ca
 Recordemos que debemos crear una base de datos con una tabla llamada usuario con sus principales columnas ya que sera esta la que usaremos para nuestra conexion.
 
 ```
-$ clonar git (https://github.com/200ximena/TALLER_NUM6_JAVA.git)
+$ clonar git (https://github.com/200ximena/TALLER6_JAVA.git)
 ```
 
 ## Resultados
